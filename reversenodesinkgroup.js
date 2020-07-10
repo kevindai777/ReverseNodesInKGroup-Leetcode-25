@@ -38,7 +38,7 @@ k = 2
 //reverse order afterwards
 
 let stack = []
-let newNode = new ListNode(-1)
+let newNode = new Node(-1)
 newNode.next = head
 let temp = newNode
     
